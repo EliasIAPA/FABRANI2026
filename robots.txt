@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 Disallow: /api/*
-Sitemap: https://fabraniia-cvhajxry.manus.space/sitemap.xml
+Sitemap: https://fabrani.com.br/sitemap.xml
