@@ -1,4 +1,7 @@
-User-Agent: *
+User-agent: *
 Allow: /
-Disallow: /api/*
+Disallow: /404
+Disallow: /api/
+Disallow: /admin/
+
 Sitemap: https://fabrani.com.br/sitemap.xml
